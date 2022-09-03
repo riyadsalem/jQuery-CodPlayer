@@ -1,1 +1,1 @@
-URL => https://riyadsalem.github.io/jQuery-CodPlayer/
+URL =>> https://riyadsalem.github.io/jQuery-CodPlayer/
